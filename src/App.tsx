@@ -1,5 +1,6 @@
 import "./App.css";
 import { Searchbar } from "./components/Searchbar";
+import Suggestions from "./components/Suggestions";
 
 function App() {
   return (
